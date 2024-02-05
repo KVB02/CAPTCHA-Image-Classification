@@ -1,6 +1,6 @@
 # CAPTCHA-Image-Classification
 ## Introduction:
-This project tackles CAPTCHA image classification using a Convolutional Neural Network (CNN) designed in Keras. We focused on preprocessing techniques, CNN architecture optimization, and performance evaluation to achieve high accuracy in decoding CAPTCHA images.
+This project aims to classify CAPTCHA images using a Convolutional Neural Network (CNN) developed in Keras. The focus was on advanced preprocessing techniques, optimizing the CNN architecture, and thorough performance evaluation to enhance accuracy in CAPTCHA decoding.
 
 ## Technologies Used:
 
@@ -24,4 +24,14 @@ Run the Jupyter Notebook or Python scripts to train the model and classify CAPTC
 The CNN model comprises multiple convolutional, batch normalization, dropout, and dense layers, trained to recognize and classify CAPTCHA characters with high accuracy.
 
 ## Results:
-Our model achieved remarkable accuracy, demonstrating the potential of CNNs in CAPTCHA recognition tasks. Detailed accuracy and loss graphs are included to visualize the model's performance over training epochs.
+The model demonstrated high accuracy, showcasing the effectiveness of CNNs in recognizing CAPTCHA images. Accuracy and loss metrics are presented to depict the model's performance throughout the training phases.
+
+## Contribution:
+
+Image Preprocessing: Applied grayscale conversion, thresholding, and morphological transformations to prepare CAPTCHA images for classification.
+
+Model Building: Constructed a robust CNN using Keras, focusing on feature detection and classification.
+
+Training and Evaluation: Managed model training, monitoring accuracy and loss, and fine-tuning parameters for optimal performance.
+
+Visualization and Reporting: Utilized Matplotlib for result visualization and compiled comprehensive project documentation.
