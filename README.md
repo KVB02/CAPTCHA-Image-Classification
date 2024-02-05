@@ -5,9 +5,13 @@ This project aims to classify CAPTCHA images using a Convolutional Neural Networ
 ## Technologies Used:
 
 Python: Core programming language
+
 Keras & TensorFlow: For building and training the CNN model
+
 OpenCV & PIL: For image processing
+
 Matplotlib: For plotting training/validation accuracy and loss
+
 Pandas & NumPy: For data manipulation
 
 
