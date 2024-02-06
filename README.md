@@ -17,7 +17,7 @@ Pandas & NumPy: For data manipulation
 
 ## Installation:
 
-git clone https://github.com/yourusername/CAPTCHA-Image-Classification.git
+git clone https://github.com/KVB02/CAPTCHA-Image-Classification
 cd CAPTCHA-Image-Classification
 pip install -r requirements.txt
 
